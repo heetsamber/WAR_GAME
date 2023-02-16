@@ -10,7 +10,7 @@ users = {
 ```
 
 두 가지 정보가 있다.일단 admin으로 접속할 경우 우리가 원하는 FLAG 값을 가져올 수 있다.
-일단 게스트로 로그인을 해보면
+다음 정보를 가지고 게스트로 로그인을 해보면
 
 <img width="554" alt="스크린샷 2023-02-16 오전 4 09 38" src="https://user-images.githubusercontent.com/103236108/219129616-043fbad5-dfec-4d78-911a-c8eda0c21b69.png">
 
